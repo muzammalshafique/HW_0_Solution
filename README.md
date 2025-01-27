@@ -25,5 +25,3 @@ This Python script processes text files for normalization, token frequency analy
 Install the dependencies using:
 ```bash
 pip install nltk matplotlib numpy
-```bash
-
