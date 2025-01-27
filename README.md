@@ -13,7 +13,8 @@ This Python script processes text files for normalization, token frequency analy
   - Filter tokens by minimum length.
 - Count word frequencies and display the most/least frequent tokens.
 - Visualize token frequency distribution with customizable graph types.
-
+## **Download the Repository**
+   Clone the repository or download it as a ZIP file and extract it.
 ## **Requirements**
 - Python 3.7 or later
 - Required libraries:
@@ -24,11 +25,5 @@ This Python script processes text files for normalization, token frequency analy
 Install the dependencies using:
 ```bash
 pip install nltk matplotlib numpy
-
-## **Setup Instructions**
-1. **Clone or Download the Repository**
-   Clone the repository or download it as a ZIP file and extract it.
-   ```bash
-   git clone <repository_url>
-   cd <repository_folder>
+```bash
 
